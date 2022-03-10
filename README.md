@@ -1,1 +1,1 @@
-# nodejs_stock_trader
+# stock-broker
